@@ -4,8 +4,8 @@
 
 ## Живое демо
 
-- GitHub Pages: https://emoread23.github.io/project134/
-- Быстрый просмотр: https://raw.githack.com/emoread23/project134/main/index.html
+- Открыть демо: https://htmlpreview.github.io/?https://github.com/emoread23/project134/blob/main/index.html
+- GitHub Pages после включения в настройках: https://emoread23.github.io/project134/
 
 ## Что показывает демо
 
@@ -20,7 +20,7 @@
 
 Можно писать салонам так:
 
-> Я делаю Telegram-бота для онлайн-записи: клиент сам выбирает услугу, мастера и время, а администратор получает готовую заявку. Вот демо, как это выглядит: https://emoread23.github.io/project134/
+> Я делаю Telegram-бота для онлайн-записи: клиент сам выбирает услугу, мастера и время, а администратор получает готовую заявку. Вот демо, как это выглядит: https://htmlpreview.github.io/?https://github.com/emoread23/project134/blob/main/index.html
 
 ## Что можно добавить в реальный проект
 
